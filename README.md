@@ -346,38 +346,3 @@ For detailed information on all commands, options, and comprehensive examples fo
     ```bash
     kleos kb query-agent my_kb_assistant4 "What is the total number of stories ?"
     ```
-
-## 4. Project Internals & Development
-
-**Detailed Documentation:**
-*   For a comprehensive guide to all CLI commands, options, and examples, please see [**COMMANDS_REFERENCE.md**](Command-references.md).
-
---- 
-
-<a href="https://github.com/yashksaini-coder">
-    <table>
-        <tbody>
-            <tr>
-                <td align="left" valign="top" width="14.28%">
-                    <img src="https://github.com/yashksaini-coder.png?s=60" width="130px;"/>
-                    <br/>
-                    <h4 align="center">
-                        <b>Yash K. Saini</b>
-                    </h4>
-                    <div align="center">
-                        <p>(Author)</p>
-                    </div>
-                </td>
-                <td align="left" valign="top" width="85%">
-                    <p>
-                        👋 Hi there! I'm <u><em><strong>Yash K. Saini</strong></em></u>, a self-taught software developer and a computer science student from India.
-                    </p>
-                    <ul>
-                     <li>
-                        Building products & systems that can benefit & solve problems for many other DEVs.
-                    </li>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</a>
